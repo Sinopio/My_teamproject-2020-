@@ -13,8 +13,7 @@ public class Monster
     {
         this.MobName = monster.MobName;
         this.MobObject = monster.MobObject;
-        this.weight = monster.weight;
-            
+        this.weight = monster.weight; 
     }
 }
 

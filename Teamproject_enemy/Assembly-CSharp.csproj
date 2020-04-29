@@ -72,6 +72,7 @@
     <Compile Include="Assets\Scripts\Refurence_Scripts\CardUI.cs" />
     <Compile Include="Assets\Scripts\Refurence_Scripts\RandomSelect.cs" />
     <Compile Include="Assets\Scripts\Spwaner_Move.cs" />
+    <Compile Include="Assets\Scripts\UI_Manager_Scripts.cs" />
     <Compile Include="Assets\Supercyan Character Pack Free Sample\Scripts\CameraLogicFree.cs" />
     <Compile Include="Assets\Supercyan Character Pack Free Sample\Scripts\DemoFree.cs" />
     <Compile Include="Assets\Supercyan Character Pack Free Sample\Scripts\SimpleCharacterControlFree.cs" />
